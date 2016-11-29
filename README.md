@@ -16,3 +16,10 @@ Make A Diff is designed to organize the tech community to encourage thoughtful a
 
 December 3rd from 10am to 5pm
 Details to follow
+
+## Links to organizations doing good with code
+Will add more soon.
+- [Progressive Coders Network](http://www.progcode.co/)
+
+## About this repo
+This is a work in progress, but will act as a center for key information that will help our members. Pull requests are very much welcome if you can think of any useful information that could go here. ✌️
