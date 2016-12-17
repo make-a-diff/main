@@ -12,11 +12,6 @@ Make A Diff is designed to organize the tech community to encourage thoughtful a
 
 - [Jess Lee](https://github.com/jessleenyc)
 
-## Next Meetup
-
-December 3rd from 10am to 5pm
-Details to follow
-
 ## Links to organizations doing good with code
 Will add more soon.
 - [Progressive Coders Network](http://www.progcode.co/)
